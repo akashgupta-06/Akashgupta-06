@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack  
 
 **Programming Languages**  
-`Python` `SQL` `DAX (Power BI)`  
+`Python` `SQL`   
 
 **Data Analysis & Visualization**  
 `Pandas` `NumPy` `Power BI` `Matplotlib` `Seaborn` `Plotly` `Statsmodels` `SciPy`  
