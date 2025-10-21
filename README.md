@@ -64,8 +64,7 @@
 
 ---
 
-## 🌟 Featured Projects  
-*(Add links when ready — placeholders below)*  
+## 🌟 Featured Projects   
 - 🔹 https://github.com/akashgupta-06/Bank-Loan-Default-Risk-Analysis – EDA : Bank Loan Default Risk Analysis 
 - 🔹 [Computer Vision Object Detector](#) – Real-time detection with YOLO & OpenCV  
 - 🔹 [Power BI Dashboard](#) – Business intelligence insights from real datasets  
